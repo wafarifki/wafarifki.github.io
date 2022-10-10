@@ -1,5 +1,5 @@
 # wafarifki.github.io
-Halo, perkenalkan nama saya Wafa Rifqi Anafin. Saya seorang Desainer Situs Web Kreatif dan Pengembang Situs Web Dari Indonesia. Saat ini saya berfokus pada pengembangan dan desain prototipe beberapa Situs Web. Saat ini saya adalah mahasiswa aktif semester 7 di Universitas Nusa Mandiri Bekasi.
+Halo, perkenalkan nama saya Wafa Rifqi Anafin. Saya seorang Desainer Situs Web Kreatif dan Pengembang Situs Web Dari Indonesia. Saya adalah orang yang berpengalaman sebagai Web Designer, Frontend Web Developer dan PHP Backend Developer. Menguasai HTML5, CSS, Bootstrap, JavaScript, PHP Native. Saat ini saya berfokus pada pengembangan dan desain prototipe beberapa Situs Web. Saat ini saya adalah mahasiswa aktif semester 7 di Universitas Nusa Mandiri Bekasi.
 
 # Demo Site
  <a href="https://wafarifki.github.io">https://wafarifki.github.io</a>
